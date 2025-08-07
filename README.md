@@ -7,9 +7,9 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on a
 
 ## Dataset
 
-Two datasets were used for this analysis:
-- Dataset 1: [Insert link here]
-- Dataset 2: [Insert link here]
+Two dataset used for this analysis:
+- Dataset :https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset
+
 
 Each dataset contains transaction-level data including sales, product details, customer information, and transaction dates.
 
