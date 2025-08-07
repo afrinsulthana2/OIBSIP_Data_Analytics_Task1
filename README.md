@@ -47,5 +47,3 @@ The analysis provided valuable insights such as:
 - High-performing products
 - Sales distribution across time
 
-## Folder Structure
-
